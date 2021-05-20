@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "components_funcnrashttptriggerexamp_WorkspaceResourceId": {
+            "value": null
+        },
+        "serverfarms_EastUSPlan_name": {
+            "value": null
+        },
+        "components_funcnrashttptriggerexamp_name": {
+            "value": null
+        },
+        "sites_func_nrashttptriggerexample_dev_001_name": {
+            "value": null
+        },
+        "storageAccounts_funcnrashttptriggerexamp_name": {
+            "value": null
+        }
+    }
+}
